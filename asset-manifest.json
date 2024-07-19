@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Vishwajit_Aher/static/css/main.e39a1cd0.css",
-    "main.js": "/Vishwajit_Aher/static/js/main.b2fc6a85.js",
+    "main.js": "/Vishwajit_Aher/static/js/main.c9037c84.js",
     "static/js/815.562f0a86.chunk.js": "/Vishwajit_Aher/static/js/815.562f0a86.chunk.js",
     "static/js/5.6bc0385d.chunk.js": "/Vishwajit_Aher/static/js/5.6bc0385d.chunk.js",
     "static/js/920.d35f29b9.chunk.js": "/Vishwajit_Aher/static/js/920.d35f29b9.chunk.js",
@@ -66,7 +66,7 @@
     "static/media/logo-dark.svg": "/Vishwajit_Aher/static/media/logo-dark.3158aef53dc4d164bd3c44d626fa0877.svg",
     "index.html": "/Vishwajit_Aher/index.html",
     "main.e39a1cd0.css.map": "/Vishwajit_Aher/static/css/main.e39a1cd0.css.map",
-    "main.b2fc6a85.js.map": "/Vishwajit_Aher/static/js/main.b2fc6a85.js.map",
+    "main.c9037c84.js.map": "/Vishwajit_Aher/static/js/main.c9037c84.js.map",
     "815.562f0a86.chunk.js.map": "/Vishwajit_Aher/static/js/815.562f0a86.chunk.js.map",
     "5.6bc0385d.chunk.js.map": "/Vishwajit_Aher/static/js/5.6bc0385d.chunk.js.map",
     "920.d35f29b9.chunk.js.map": "/Vishwajit_Aher/static/js/920.d35f29b9.chunk.js.map",
@@ -79,6 +79,6 @@
   },
   "entrypoints": [
     "static/css/main.e39a1cd0.css",
-    "static/js/main.b2fc6a85.js"
+    "static/js/main.c9037c84.js"
   ]
 }
