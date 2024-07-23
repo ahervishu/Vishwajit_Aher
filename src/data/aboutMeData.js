@@ -1,10 +1,16 @@
 export const aboutMeData = [
-	{
-		id: 1,
-		bio: 'Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nihil vel illum asperiores dignissimos cumque quibusdam et fugiat voluptatem nobis suscipit explicabo, eaque consequatur nesciunt, fugit eligendi corporis laudantium adipisci soluta? Lorem ipsum, dolor sit amet consectetur adipisicing elit. Incidunt totam dolorum, ducimus obcaecati, voluptas facilis molestias nobis ut quam natus similique inventore excepturi optio ipsa deleniti fugit illo. Unde, amet! Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsum illo necessitatibus perspiciatis! Aperiam perferendis labore temporibus, eos culpa corporis recusandae quas, fuga voluptatibus nesciunt odit libero tenetur neque consequatur ea.',
-	},
-	{
-		id: 2,
-		bio: 'Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nihil vel illum asperiores dignissimos cumque quibusdam et fugiat voluptatem nobis suscipit explicabo, eaque consequatur nesciunt, fugit eligendi corporis laudantium adipisci soluta?',
-	},
+  {
+    id: 1,
+    bio: `I'm *Vishwajit Aher*, currently working at *Encora* as a *Software Developer*.
+• Over *2+ years* of experience in web development using both client-side and server-side technologies.
+• Proficient in building, architecting, and maintaining scalable, maintainable, and efficient UIs.
+• Experienced with back-end and database technologies such as Node.js, Express.js, MongoDB, Firebase, etc.
+• Experienced in Test-Driven Development (TDD).
+• Experienced with Agile methodology.
+`,
+  },
+  {
+    id: 2,
+    bio: "",
+  },
 ];
