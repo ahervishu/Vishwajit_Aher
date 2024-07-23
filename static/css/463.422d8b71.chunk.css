@@ -1,0 +1,2 @@
+.image-container{display:inline-block;perspective:1000px}.image-3d{border-radius:50%;box-shadow:0 10px 20px #00000080;position:relative;transform-style:preserve-3d;transition:transform .1s,box-shadow .1s}.image-3d:before{background:radial-gradient(circle at top left,#ff000080,#0000 50%);border-radius:inherit;content:"";height:100%;left:0;mix-blend-mode:screen;pointer-events:none;position:absolute;top:0;transition:transform .1s;width:100%;z-index:1}
+/*# sourceMappingURL=463.422d8b71.chunk.css.map*/
